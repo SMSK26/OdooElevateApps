@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 # This module is under copyright of 'OdooElevate'
 {
-    'name': 'OdooElevate Sales Report',
-    'version': '1.0',
+    'name': 'Sales Report',
+    'version': '1.1',
     'category': 'Sales',
     'summary': 'Custom dashboard for yearly sales report.',
     'description': """
@@ -11,7 +11,7 @@
         with dynamic data updates based on selected dates.
         This module is under copyright of 'OdooElevate'.
     """,
-    'author': 'Sheikh Muhammad Saad',
+    'author': 'Sheikh Muhammad Saad, OdooElevate',
     'website': 'https://odooelevate.odoo.com/',
     'depends': ['web', 'sale_management'],
     'data': [
