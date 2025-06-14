@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # This module is under copyright of 'OdooElevate'
 {
-    'name': 'Sales Report',
+    'name': 'Sales Report Dashboard',
     'version': '1.1',
     'category': 'Sales',
     'summary': 'Custom dashboard for yearly sales report.',
